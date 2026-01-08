@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kaif (aka Dev-Kaif)
+# 👋 Hi, I'm Kaif 
 
 🚀 I'm a developer from India who loves building **AI-powered tools, SaaS products, and automation systems**.
 
